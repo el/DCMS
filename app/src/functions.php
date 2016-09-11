@@ -1,0 +1,5 @@
+<?php
+
+/**
+ * System wide functions
+ */

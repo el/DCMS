@@ -1,0 +1,21 @@
+body {background: url(bill.jpg) top center no-repeat;background-size: 199mm auto; margin:0; padding: 0;}
+.page {width: 161mm;position: relative;font-size: 11pt;font-family: Arial;margin: 5.2cm auto 0;padding-right: 1mm;height: 220mm;}
+.company {width: 7cm;}
+.taxplace {position: absolute;top: 35mm;left: 24mm;font-weight: bold;}
+.taxnum {position: absolute;top: 35mm;left: 72mm;font-weight: bold;}
+.date1 {position: absolute;left: 138mm;top: 13mm;height: 4mm;overflow: hidden;}
+.date2 {left: 138mm;position: absolute;top: 26.1mm;line-height: 7mm;}
+.goods {position: absolute;top: 51mm;width: 100%;margin-left: -1mm;}
+.goods .line {margin: 1mm 0 1mm 1mm;border-bottom: 1px solid #CCC;padding-bottom: 1mm;}
+.goods .text{float: left;width: 98mm;padding-left: 1mm;}
+.goods .count{float: left;width: 18mm;text-align: center;}
+.goods .price{float: left;width: 22mm;text-align: right;}
+.goods .total{text-align: right;}
+.prices {position: absolute;width: 100%;top: 176.4mm;height: 35mm;}
+.prices div {text-align: right;line-height: 6.8mm;font-weight: bold;padding-right: 1mm;}
+.prices .total {;}
+.prices .discount {}
+.prices .discounted {}
+.prices .tax {}
+.prices .totaltext {position: absolute;top: 7mm;left: 4mm;width: 93mm;text-align: left;font-weight: normal;}
+.prices .totalfinal {}
